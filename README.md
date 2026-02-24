@@ -34,7 +34,8 @@ Asegúrate de que el código sea limpio, moderno y la interfaz se vea muy atract
 
 ### WEB
 <img width="349" height="822" alt="image" src="https://github.com/user-attachments/assets/d43977f6-aa44-4d66-be83-b6fecca34557" />
-<img width="363" height="770" alt="image" src="https://github.com/user-attachments/assets/3de7c482-2693-4e1e-bcaa-a4d3452be9d5" />
+<img width="349" height="812" alt="image" src="https://github.com/user-attachments/assets/d68c3e78-a2be-4e7f-9ab8-128705b7edeb" />
+
 <img width="371" height="775" alt="image" src="https://github.com/user-attachments/assets/0d29adc0-ae1d-4f42-8fd1-81590fa33bb5" />
 
 
